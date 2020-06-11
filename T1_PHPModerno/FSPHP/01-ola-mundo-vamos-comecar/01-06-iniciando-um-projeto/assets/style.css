@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;400&display=swap');
+	
+	body{
+		padding: 3px;
+	}
+
+  p{
+    font-family: "Source Code Pro", Serif;
+  }
